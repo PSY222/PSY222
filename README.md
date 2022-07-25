@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PSY222!! I'm working as strategy consultant in South Korea.
 - 👀 I’m interested in making world much fun and convenient place
-- 🌱 I’m currently learning Python these days. Although I'm a beginner yet, but hoping to develop my skill day by day.
-- 💞️ I’m particularly interested in future mobility services!
 - 📫 soyoungpark.psy@gmail.com
 
 <!---
