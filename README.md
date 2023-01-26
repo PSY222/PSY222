@@ -36,6 +36,7 @@ I am currently in South Korea, but willing to work anywhere in the world if I on
 Kaggle(English): https://www.kaggle.com/bell2psy<br>
 LinkedIn(English): https://www.linkedin.com/in/soyoung-park/<br>
 Tech Blog(Korean): https://psygo22.tistory.com/<br>
+AI art sharing Instagram(English):https://www.instagram.com/oh_my_gan/
 
 <br>
 🤡 Interesting Sharings <br><br>
