@@ -14,7 +14,7 @@
 
 <br>👉 Bio
 <ul>
- <li>(2023-) Prospective postgraduate student of Data Science Msc at London✨</li>
+<li>(2023-) Prospective postgraduate student of Data Science Msc at London✨</li>
 <li>(2022-23) Completed 6 months long AI web bootcamp</li>
 <li>(2021-22) KPMG full time Business Consultant</li>
 <li>(2020) Internship at eminent consulting firms: Deloitte, S-CORE</li>
@@ -22,13 +22,15 @@
 
 
 <br>
-👋 Where to Find Me <br><br>
-<ul>
- <li>Kaggle(English): https://www.kaggle.com/bell2psy</li>
- <li>LinkedIn(English): https://www.linkedin.com/in/soyoung-park/</li>
- <li>Tech Blog(Korean): https://psygo22.tistory.com/</li>
- <li>AI art sharing Instagram(English):https://www.instagram.com/oh_my_gan/</li>
-</ul>
+👋 Where to Find Me <br>
+
+##### - [Kaggle](https://www.kaggle.com/bell2psy) 
+
+##### - [LinkedIn](https://www.linkedin.com/in/soyoung-park/)  
+
+##### - [Tech Blog(Korean)](https://psygo22.tistory.com/)
+
+##### -  [AI art sharing Instagram](https://www.instagram.com/oh_my_gan/)
 
 <br>
 🧐 Interesting Sharings <br><br>
