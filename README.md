@@ -36,5 +36,5 @@
 🧐 Interesting Sharings <br><br>
 ✈ Travel lover ✈ <br>
 
-###### Backpacked around South East Asia + Exchange student at Prague,Czech Republic + Internship at SiliconValley,Us + Volunteered at Indonesia
+###### Backpacked around South East Asia + Exchange student at Prague,Czech Republic + Internship at SiliconValley,Us
 
