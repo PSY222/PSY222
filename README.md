@@ -16,9 +16,9 @@
 <hr>
 
 #### 🎯 I'm working on 
+- Diving into resesarch in Single view 3D reconstruction 
 - Research about GAN, image segmentation and Face anonymization
 - Learning C++ to make PR to opensources
-- Participating in Data analysis competition
 <hr>
 
 #### 🖐 Connect with me
