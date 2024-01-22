@@ -16,9 +16,9 @@
 <hr>
 
 #### 🎯 I'm working on 
-- Diving into resesarch in Single view 3D reconstruction 
-- Research about GAN, image segmentation and Face anonymization
-- Learning C++ to make PR to opensources
+- Diving into resesarch about NeRF
+- Interested in GAN, image segmentation and Face anonymization
+- 
 <hr>
 
 #### 🖐 Connect with me
