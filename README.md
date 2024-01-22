@@ -18,7 +18,7 @@
 #### 🎯 I'm working on 
 - Diving into resesarch about NeRF
 - Interested in GAN, image segmentation and Face anonymization
-- 
+  
 <hr>
 
 #### 🖐 Connect with me
