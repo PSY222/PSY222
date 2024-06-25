@@ -1,4 +1,4 @@
-### I'm a MSc student studying Data Science in London'✨, ex-business consultant💼!
+### Data Science Msc, Former Big4 consultant, 2024 GSoC contributor
 
 #### 💻 Technical Skills
 <p align = 'left'>
@@ -16,8 +16,8 @@
 <hr>
 
 #### 🎯 I'm working on 
-- Diving into resesarch about NeRF
-- Interested in GAN, image segmentation and Face anonymization
+- Optimizing pruning, densification process of 3D Gaussian Splatting
+- 2024 GSoC : RGB -> Multispectral image generation, Segmentation model development 
   
 <hr>
 
