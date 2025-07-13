@@ -1,4 +1,4 @@
-### Data Science Msc, Former Big4 consultant, 2024 GSoC contributor
+### Data Scientist in London, Former Big4 consultant, 2024 GSoC contributor
 
 #### 💻 Technical Skills
 <p align = 'left'>
